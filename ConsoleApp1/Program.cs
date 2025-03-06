@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //jkjkj
+            //zn,nm,
         }
     }
 }
